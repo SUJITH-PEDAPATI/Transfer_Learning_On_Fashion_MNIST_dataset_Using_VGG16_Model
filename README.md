@@ -1,5 +1,4 @@
-# Transfer_Learning_On_Fashion_MNIST_dataset_Using_VGG16_Model
-# 🚀 Fashion MNIST Classification using Transfer Learning (VGG16 + PyTorch)
+# Fashion MNIST Classification using Transfer Learning (VGG16 + PyTorch)
 
 A deep learning project demonstrating **Transfer Learning** using the **pretrained VGG16 architecture** to classify images from the **Fashion-MNIST** dataset.
 
